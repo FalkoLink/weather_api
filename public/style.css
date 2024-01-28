@@ -1,0 +1,27 @@
+#background{
+	background: url(/background.jpg) no-repeat;
+	background-size: cover;
+}
+#map{
+	height: 100vh;
+}
+#color1{
+	color: #46ff90;
+}
+#color2{
+	color: #dbeb00;
+}
+#color3{
+	color: #ffd814;
+}
+#color4{
+	color: #a74600;
+}
+#color5{
+	color: #b90000;
+}
+@media screen and (max-width: 575.5px) {
+	#map{
+		height: 300px;
+	}
+}
